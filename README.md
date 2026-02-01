@@ -142,10 +142,11 @@ Deployment of the Node.js microservice
 Inter-VM communication
 
 Voice-over explanation of the complete workflow
-
 Plagiarism Declaration
 
 This project is an original implementation created solely for academic purposes.
+
+
 Any form of plagiarism in code, documentation, or implementation may result in disqualification.
 
 Conclusion
